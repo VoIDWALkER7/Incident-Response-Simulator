@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  shellinabox:
+    image: sspreitzer/shellinabox:latest
+    ports:
+      - "4201:4201"
+    environment:
+      - SIAB_PASSWORD=123456
+      - SIAB_SUDO=true
+      - SIAB_SSL=False
+      - SIAB_PORT=4201
+    restart: unless-stopped
+    
