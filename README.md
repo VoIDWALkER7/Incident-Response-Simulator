@@ -7,7 +7,7 @@ Moreover, our platform is designed to cater to differing skill levels by allowin
 type. You will then be tasked with identifying and neutralizing the posed cyber threat using customized hints and feedback that align with your chosen difficulty level. The adaptability and customization options provided by our platform differentiate it from current learning platforms, permitting you to navigate the technical complexities and gain an understanding of a hacker's mindset and approach.
 The hands-on approach and collaborative ethos of our platform make the learning process engaging and interactive, making it more than just a program - it's a revolutionized way of acquiring and honing cybersecurity skills. It's a conducive, stimulating, and immersive environment to understand and counter cyber threats effectively.
 
-DESIGN
+DESIGN:
 
   2.1 Backend Architecture:
   
@@ -79,7 +79,7 @@ DESIGN
 
         ![image](https://github.com/VoIDWALkER7/Incident-Response-Simulator/assets/84080270/e05418b1-5b97-4ba5-9ebe-f55191d8e930)
 
-HOW IT WORKS
+HOW IT WORKS:
    
   3.1 How to access the application:
      
