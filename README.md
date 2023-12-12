@@ -83,13 +83,13 @@ HOW IT WORKS:
    
   3.1 How to access the application:
      
-  - Clone the github repository using the <git clone> command, then unzip the zip file. [advisable that the git cloning has been done inside a cloud instance. Just makes it easier for you to host in online. Otherwise it works just fine on host machine as well.
+  - Clone the github repository using the `git clone` command, then unzip the zip file. [advisable that the git cloning has been done inside a cloud instance. Just makes it easier for you to host in online. Otherwise it works just fine on host machine as well.
   
   - First step is to install apache-httpd to host the website easily, otherwise the login backend will be need to be renewed. Or you can use any server that is to your liking. 
   
   - Replace the IPs in all the places with your ip or your instance's public ip.
   
-  - Now, using the terminal, cd into the shellinabox folder, and use the command <docker-compose up> ( you will need to install the command first, in ubuntu it's <apt-get install docker-compose>, in arch it's <pacman -S docker-compose>). Make sure you check the port configuration for each container you launch. and ensure that you are creating a seperate folder for each container.
+  - Now, using the terminal, cd into the shellinabox folder, and use the command`docker-compose up`( you will need to install the command first, in ubuntu it's `apt-get install docker-compose`, in arch it's `pacman -S docker-compose`). Make sure you check the port configuration for each container you launch. and ensure that you are creating a seperate folder for each container.
   
   - Now, open shellinabox in your browser, and create your scripts, or simply copy and paste our scripts.
   
